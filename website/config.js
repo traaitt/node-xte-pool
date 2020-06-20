@@ -1,8 +1,8 @@
-var api = 'http://poolhost.com:8117'
+var api = 'https://traaittsupply.com/api'
 
-var api_blockexplorer = 'http://daemonhost.com:11898'
+var api_blockexplorer = 'https://us-west.traaitt.com'
 
-var poolHost = 'poolhost.com'
+var poolHost = 'traaittsupply.com'
 
 var irc = 'irc.freenode.net/#poolhost'
 
