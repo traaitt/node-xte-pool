@@ -12,9 +12,9 @@ var cryptonatorWidget = ['{symbol}-BTC', '{symbol}-USD', '{symbol}-EUR']
 
 var easyminerDownload = 'https://github.com/zone117x/cryptonote-easy-miner/releases/'
 
-var blockchainExplorer = 'https://traaitt.com/explorer/?hash={id}'
+var blockchainExplorer = 'https://traaitt.com/explorer/?hash={id}#blockchain_block'
 
-var transactionExplorer = 'https://traaitt.com/explorer/?hash={id}'
+var transactionExplorer = 'https://traaitt.com/explorer/?hash={id}#blockchain_transaction'
 
 var themeCss = 'themes/ease-way-light-theme.css'
 
