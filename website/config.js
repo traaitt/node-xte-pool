@@ -1,4 +1,4 @@
-var api = 'http://traaittsupply.com:8117'
+var api = 'https://traaittsupply.com/api'
 
 var api_blockexplorer = 'https://us-west.traaitt.com'
 
