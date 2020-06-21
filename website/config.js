@@ -21,5 +21,11 @@ var themeCss = 'themes/ease-way-light-theme.css'
 var networkStat = {
   'xte': [
     ['traaittsupply.com', 'https://traaittsupply.com/api']
+  ],
+  'traaittPlatform': [
+    ['semipool.com', 'https://webetrx.semipool.com/api']
+  ],
+  'traaittCASH': [
+    ['semipool.com', 'https://webtch.semipool.com/api']
   ]
 }
